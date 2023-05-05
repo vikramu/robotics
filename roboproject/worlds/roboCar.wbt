@@ -690,7 +690,7 @@ Solid {
       }
       geometry Mesh {
         url [
-          "../track 1.STL"
+          "../carttrack.STL"
         ]
       }
     }
@@ -707,7 +707,7 @@ Solid {
       }
       geometry Mesh {
         url [
-          "../track 1.STL"
+          "../carttrack.STL"
         ]
       }
     }
@@ -724,7 +724,7 @@ Solid {
       }
       geometry Mesh {
         url [
-          "../track 1.STL"
+          "../carttrack.STL"
         ]
       }
     }
@@ -741,7 +741,7 @@ Solid {
       }
       geometry Mesh {
         url [
-          "../track 1.STL"
+          "../carttrack.STL"
         ]
       }
     }
